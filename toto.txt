@@ -1,2 +1,3 @@
 Ceci est un texte dans toto.txt
 et voila un autre texte
+machine
